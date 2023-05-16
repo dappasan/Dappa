@@ -408,9 +408,10 @@ def panel_markup_2(_, videoid, chat_id):
 
             InlineKeyboardButton(
 
-                text="🔇 ᴍ
+                text="
+
                 
-ᴜᴛᴇ", callback_data=f"ADMIN Mute|{chat_id}"
+ᴍᴜᴛᴇ", callback_data=f"ADMIN Mute|{chat_id}"
 
             ),
 
